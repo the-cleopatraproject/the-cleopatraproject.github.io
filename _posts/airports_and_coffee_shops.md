@@ -1,5 +1,5 @@
 ---
-title: "Airports and Coffee Shops"
+title: "Post:Quotes"
 categories:
   - Blog
 tags:
