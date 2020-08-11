@@ -6,7 +6,7 @@ tags:
   - Post Formats
   - quote
 ---
-
+{% include figure image_path="/assets/images/iheff.jpg" alt="this is a placeholder image" %}
 "You seem pretty old fashioned."
 
 
