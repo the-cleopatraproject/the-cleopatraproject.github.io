@@ -2,8 +2,8 @@ main:
   - title: "Blog"
     url: /posts/
   - title: "One Liners"
-    url: /categories/
+    url: /one_liners/
   - title: "About"
-    url: /tags/
-  - title: "Subscribe"
     url: /about/
+  - title: "Subscribe"
+    url: /subscribe/
