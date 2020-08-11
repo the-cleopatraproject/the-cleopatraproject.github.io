@@ -1,9 +1,9 @@
 main:
-  - title: "Posts"
+  - title: "Blog"
     url: /posts/
-  - title: "Categories"
+  - title: "One Liners"
     url: /categories/
-  - title: "Tags"
-    url: /tags/
   - title: "About"
+    url: /tags/
+  - title: "Subscribe"
     url: /about/
